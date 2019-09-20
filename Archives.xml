@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1568995222011" Description="version 1" Name="test" PackageName="test.spk" UserID="sasdemo@sas-aap" Version="ebbfce9">
+<ContainObj>SBIP://METASERVER/Projects/Sample/test(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
