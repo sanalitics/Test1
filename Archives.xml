@@ -11,4 +11,7 @@
 <ArchInfo Date="1571752881105" Description="" Name="V2" PackageName="V2.spk" UserID="sasdemo@sas-aap" Version="a4612be">
 <ContainObj>SBIP://METASERVER/Projects/TestGit/J_Test_Git(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1571753250583" Description="rearchive" Name="GitJ2" PackageName="GitJ2.spk" UserID="sasdemo@sas-aap" Version="3e12af6">
+<ContainObj>SBIP://METASERVER/Projects/TestGit/J_Test_Git(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
