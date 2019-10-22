@@ -5,4 +5,7 @@
 <ArchInfo Date="1568995987917" Description="version b" Name="test" PackageName="test.spk" UserID="sasdemo@sas-aap" Version="896cd74">
 <ContainObj>SBIP://METASERVER/Projects/Sample/test(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1571752351905" Description="Version1" Name="GitJ1" PackageName="GitJ1.spk" UserID="sasdemo@sas-aap" Version="662b5ca">
+<ContainObj>SBIP://METASERVER/Projects/TestGit/J_Test_Git(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
